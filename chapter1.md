@@ -550,7 +550,7 @@ The output contains a lot of detail which isn't all important right now.
 
 The *Coefficients:* section gives the intercept and slope, but also gives a probability that they're not zero along with stars to indicate significance.
 
-Near the bottom, look for the *adjusted R-squared value*. This gives a measure of how close to the line the data are. It has a scale of 0 - 1, with 1 indicating that all the points fall exacly on the line.
+Near the bottom, look for the *adjusted R-squared value*. This gives a measure of how close to the line the data are. It has a scale of 0 - 1, with 1 indicating that all the points fall exactly on the line.
 
 What is the adjusted R-squared value for this fit?
 
