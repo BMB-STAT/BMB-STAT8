@@ -643,7 +643,7 @@ fit <- lm(dist ~ speed, data = cars)
 # Plot residuals against fitted values
 plot(fit$residuals ~ fit$fitted.values)
 
-abline(v = 0, col = 'red')
+abline(h = 0, col = 'red')
 ```
 
 *** =sct
