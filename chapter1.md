@@ -626,7 +626,7 @@ test_function("plot", args = "formula")
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:2d5d9caa69
 ## Residuals plot
 
-Take a look at the residuals plot. With a good fit, you should see a random distribution of points either side of the line. If you see a consistent pattern, it indicates that there is a consistent difference between the fitted line and the data and that the wrong shape of line is fitted.
+Take a look at the residuals plot. With a good fit, you should see a random distribution of residuals either side of the horizontal line. If you see a consistent pattern, it indicates that there is a consistent difference between the fitted line and the data and that the wrong shape of line has been fitted.
 
 Does this plot indicate a good fit?
 
