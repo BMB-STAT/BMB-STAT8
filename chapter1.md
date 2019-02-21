@@ -1,6 +1,7 @@
 ---
 title: 'STAT8 - Correlation and Regression'
 description: 'Investigating the association between two continuous variables'
+free_preview: true
 ---
 
 ## Analysing two continuous variables
