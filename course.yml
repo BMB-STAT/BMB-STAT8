@@ -6,3 +6,4 @@ time_needed: "1 hour"
 datasets:
 STAT8v3.RData: "Stat8v3"
 programming_language: "r"
+from: "r-base-prod:v1.0.2"
